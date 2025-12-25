@@ -25,6 +25,7 @@ public class LargestArrElement {
 
     public static void main(String[] args) {
 
-
+        int[] arr1 = {2, 5, 1, 3, 0};
+        System.out.println(largestEle(arr1));
     }
 }
